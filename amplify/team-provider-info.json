@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-thopternetwork-dev-180055-authRole",
+      "UnauthRoleArn": "arn:aws:iam::816705121310:role/amplify-thopternetwork-dev-180055-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::816705121310:role/amplify-thopternetwork-dev-180055-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-thopternetwork-dev-180055-deployment",
+      "UnauthRoleName": "amplify-thopternetwork-dev-180055-unauthRole",
+      "StackName": "amplify-thopternetwork-dev-180055",
+      "StackId": "arn:aws:cloudformation:us-east-2:816705121310:stack/amplify-thopternetwork-dev-180055/6ad710a0-1b7f-11ee-8b07-06ea58d85bfb",
+      "AmplifyAppId": "d152hf41wsvez5"
+    }
+  }
+}
